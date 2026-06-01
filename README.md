@@ -6,6 +6,6 @@
 
 - 📋 [Чек-лист на вёрстку полей](https://docs.google.com/spreadsheets/d/1ZfHHtqvrn3c4wXbpyjjDoUTpEN8W4jF8p5kuxLADaL8/edit?gid=899462569#gid=899462569)
 - 💳 [Логика работы окон "Способ оплаты" и "Добавление карты" (чек-лист)](https://docs.google.com/spreadsheets/d/1ZfHHtqvrn3c4wXbpyjjDoUTpEN8W4jF8p5kuxLADaL8/edit?gid=1540435533#gid=1540435533)
-- - 🧪 [Тест-кейсы на кнопку "Забронировать"](https://docs.google.com/spreadsheets/d/1ZfHHtqvrn3c4wXbpyjjDoUTpEN8W4jF8p5kuxLADaL8/edit?gid=1567345705#gid=1567345705)
+- 🧪 [Тест-кейсы на кнопку "Забронировать"](https://docs.google.com/spreadsheets/d/1ZfHHtqvrn3c4wXbpyjjDoUTpEN8W4jF8p5kuxLADaL8/edit?gid=1567345705#gid=1567345705)
 - 🐞 [Баг-репорты](https://docs.google.com/spreadsheets/d/1ZfHHtqvrn3c4wXbpyjjDoUTpEN8W4jF8p5kuxLADaL8/edit?gid=977751969#gid=977751969)
-- - 📊 [Отчёт](https://docs.google.com/document/d/1fF3Z9qqZ5HtpSWc8K8bnskAgVGF7fD069sgwuSuw5aY/edit?tab=t.0)
+- 📊 [Отчёт](https://docs.google.com/document/d/1fF3Z9qqZ5HtpSWc8K8bnskAgVGF7fD069sgwuSuw5aY/edit?tab=t.0)
